@@ -1,0 +1,17 @@
+form {
+  width: 70%;
+  margin: auto;
+  padding: 20px;
+
+  background: white;
+  border-radius: 12px;
+}
+
+.con{
+  width: 60%;
+  margin:auto;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+}
+
